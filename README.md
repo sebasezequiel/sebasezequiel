@@ -34,4 +34,7 @@ Welcome to my profile. I'm sharing my introduction so I can offer my knowledge t
  
 ## Current Works
 *I have no experience; I'm looking for my first job and am very willing to learn and contribute!
+
+## Projects 
+*Comingsoon
  
